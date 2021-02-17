@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I have some really neat repositories & reference materials for learning Python, R, and other tech-y things!
+
+My GitHub profile goes hand-in-hand with my website too: (It's currently down for some cool updates).
+
+:computer: - [LearningData.io](https://learningdata.io/)
+
 <!--
 **mhall-simon/mhall-simon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
